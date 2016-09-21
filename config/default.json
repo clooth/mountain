@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/mountain",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "8azACbJ56H4gazAXNP9djcaLe5U0MfwlOpJois3gzXrEoELtTThuah5uBRknAIpdrP1Adblo0/4g4fvQzln35w=="
+    },
+    "local": {}
+  }
+}
